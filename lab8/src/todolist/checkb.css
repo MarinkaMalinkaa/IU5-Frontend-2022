@@ -1,0 +1,17 @@
+.todo{
+    font-size: 16px;
+    margin: 15px 5px;
+    border-bottom: 1px dashed #961173;
+    max-width:  400px;
+    position: relative;
+    height: 40px;
+}
+.Del{
+    position: absolute;
+    right: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
+#checkb{
+    margin-right: 5px;
+}
