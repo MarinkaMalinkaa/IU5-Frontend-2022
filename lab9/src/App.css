@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(211, 114, 249);
+}
+
+.App {
+    margin: 0;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
