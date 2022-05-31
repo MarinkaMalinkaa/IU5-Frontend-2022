@@ -1,0 +1,28 @@
+body {
+  height: 100%;
+  background-color: #db8bf2;
+}
+
+.ToDoList{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 400px;
+  max-height: 450px;
+  background-color:#f6e0fc;
+  display: flex;
+  flex-direction: column;   
+  text-align: left ;
+  border: 1px solid #000000;
+  border-radius: 15px;
+}
+
+#newItem{
+  height: 20px;
+  background-color: #f6e0fc;
+  border-radius: 5px;
+}
+
+button{
+  background-color: #f6e0fc;
+  border-radius: 5px;
+} 
